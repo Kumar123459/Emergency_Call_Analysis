@@ -1,0 +1,32 @@
+
+call_text,sentiment
+"Please help me my house is on fire",Panic
+"There is a huge fire in my building",Panic
+"I am scared someone is following me",Fear
+"I am very frightened please send help",Fear
+"My child is missing and I am worried",Fear
+"My father is unconscious and not responding",Distress
+"My mother is having difficulty breathing",Distress
+"Someone has been badly injured in an accident",Distress
+"I am crying because my brother is hurt",Distress
+"I cannot stop crying please help me",Distress
+"Someone stole my car and I am angry",Anger
+"My neighbor is threatening me",Anger
+"Someone is shouting and attacking me",Anger
+"I am furious someone damaged my property",Anger
+"A person is fighting outside my house",Anger
+"I want to report a noise complaint",Neutral
+"There is a broken street light",Neutral
+"I want to report a lost wallet",Neutral
+"There is a traffic signal not working",Neutral
+"I need information about an emergency service",Neutral
+"My kitchen is burning please send firefighters",Panic
+"I hear someone screaming for help",Panic
+"I am trapped inside a building",Fear
+"My family is in danger please help",Fear
+"My friend is injured and bleeding",Distress
+"My grandfather has collapsed",Distress
+"Someone broke into my house",Anger
+"A person is damaging my vehicle",Anger
+"I want to report a minor road issue",Neutral
+"There is a fallen tree on the road",Neutral
